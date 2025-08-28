@@ -1,0 +1,539 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "resources",
+    "deps": [],
+    "uuids": [
+        "0257bbbe-be36-465e-84c5-3608989c65ee",
+        "03c037297",
+        "074ee7830",
+        "08522b09-15c6-4da5-8193-e2a6756cca72",
+        "08522b09-15c6-4da5-8193-e2a6756cca72@6c48a",
+        "08522b09-15c6-4da5-8193-e2a6756cca72@f9941",
+        "089f26c1-1753-4e89-9547-6feb6f10c321",
+        "089f26c1-1753-4e89-9547-6feb6f10c321@6c48a",
+        "089f26c1-1753-4e89-9547-6feb6f10c321@f9941",
+        "0cf6ed2e-8c64-4e9c-907b-8f2bab51892a",
+        "0d2e3d563",
+        "0ff06268-7873-4248-8131-2b0eff39e4a5",
+        "16c286b0-077a-43b9-9b5b-54c6e785585a",
+        "20078d11-903d-4aee-b945-cc0203f4116a",
+        "27de1bf3-58e0-4834-8076-9ef059e36822",
+        "27de1bf3-58e0-4834-8076-9ef059e36822@6c48a",
+        "27de1bf3-58e0-4834-8076-9ef059e36822@f9941",
+        "2ee06745-9097-492c-aaa9-5431cde13029",
+        "37370a80-e86a-4a16-94dc-699b30d940be",
+        "37ca80cb-a47a-4e0c-84be-5e7b2a06485b",
+        "38a05e57-8c8c-4639-8df8-06f7e8a2a4af",
+        "3b624de5-e6a3-4947-bece-b179c0a8e5e6",
+        "3b624de5-e6a3-4947-bece-b179c0a8e5e6@6c48a",
+        "3b624de5-e6a3-4947-bece-b179c0a8e5e6@f9941",
+        "3d6109b0-c743-40ab-95dc-54d54e818d93",
+        "46ad855e-063f-4cf3-8bb4-ff8955a77bd1",
+        "46b29858-f29d-436d-b476-99d12fba8f99",
+        "46b29858-f29d-436d-b476-99d12fba8f99@6c48a",
+        "46b29858-f29d-436d-b476-99d12fba8f99@f9941",
+        "4996cef0-6abd-4bfc-a523-4e40c4f32efd",
+        "4bf48e9c-0094-4ae2-9cbc-a1f98d733131",
+        "5249f6e2-5920-4962-8232-6c23d10d87b2",
+        "529d9762-5331-417e-8fb3-08ff7025e72c",
+        "532bf655-e955-4ae1-87f2-81174e0da742",
+        "532bf655-e955-4ae1-87f2-81174e0da742@6c48a",
+        "532bf655-e955-4ae1-87f2-81174e0da742@f9941",
+        "5eecff14-c680-4548-9cbc-225de5010c33",
+        "62b900cd-fa45-424c-870c-ddb5e5412053",
+        "63227c9a-42bb-4e1e-856d-74e6741af519",
+        "66f611b4-a5ce-4652-af58-a18a73e34126",
+        "674d776c-e893-46bf-9311-e780e2c433b4",
+        "6cde6990-d244-4621-8caa-f3639ab2fa0f",
+        "78b4b1d4-2a47-4291-ab3e-08f920a547f4",
+        "7a0b25cd-26ca-4560-b121-8a7b8ee9bf3f",
+        "7fff4a25-5026-415a-8f2e-18a046ccb53a",
+        "88afd373-aabb-4359-878f-4ea2a919de36",
+        "8a71b864-e2ef-4562-9d13-d3bba2ccdbb4",
+        "97926019-7266-4f31-9d94-5f680195c772",
+        "9be87971-1a0b-4dfe-afab-85a48acc023c",
+        "9ff77d66-341f-4f48-a245-8865d1949a26",
+        "a4d3d3b3-d64d-4dee-a0dc-f0565d696ce1",
+        "b3b374fb-018d-47a8-aecf-a4584c51d9f4",
+        "b5448aa6-098a-4255-b498-c992a0d70cc2",
+        "b5448aa6-098a-4255-b498-c992a0d70cc2@6c48a",
+        "b5448aa6-098a-4255-b498-c992a0d70cc2@f9941",
+        "b73cdaef-f2ea-486d-baa1-acb4b2894323",
+        "bba2ec7b-6557-4858-b52f-420307d5c356",
+        "bd449375-29d8-4886-8506-337012877e9f",
+        "bd4e164c-f3ce-47dd-b206-2f2a496a1f3f",
+        "c04fa0bf-4476-4cdc-abe9-c143e4592992",
+        "c8ab9d0e-de88-47f5-8c42-0b9d8367b01c",
+        "cd7bd3bd-6654-410a-9180-71bff2adb094",
+        "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19",
+        "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19@6c48a",
+        "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19@f9941",
+        "cf984fb8-cfbc-427a-97b0-4526aebda6a1",
+        "cfc05a01-1572-4b87-b6f8-91f3e8267043",
+        "d017c57e-8ffd-4fc3-9853-333a2678bec5",
+        "db9f33cc-fb31-4fbf-bd52-a313c87c0b3a",
+        "dba48c47-8e44-4ea4-a886-6e02515a4ade",
+        "dc9d44a0-06d0-4969-a391-a236fe083e65",
+        "dc9d44a0-06d0-4969-a391-a236fe083e65@6c48a",
+        "dc9d44a0-06d0-4969-a391-a236fe083e65@f9941",
+        "e00fe5e0-829d-4518-9d1f-cf96548e1816",
+        "e00fe5e0-829d-4518-9d1f-cf96548e1816@6c48a",
+        "e00fe5e0-829d-4518-9d1f-cf96548e1816@f9941",
+        "e3dfbb9c-4e77-4de8-b470-ada21efa38cb",
+        "e87072f7-8c17-4eea-b783-bf3c341c5333",
+        "eac94167-cde2-4228-a4c2-835654d4ff6d",
+        "ee58c104-86cb-4f71-a447-fe038a67157e",
+        "eefa2d93-dbf3-46be-8f82-081ca3771963",
+        "f0317a5c-b5dd-452a-b3f2-7882aa61298e",
+        "fe86053f-731c-4540-9ced-13310902cf1f",
+        "fe86053f-731c-4540-9ced-13310902cf1f@6c48a",
+        "fe86053f-731c-4540-9ced-13310902cf1f@f9941"
+    ],
+    "paths": {
+        "0cf6ed2e-8c64-4e9c-907b-8f2bab51892a": [
+            "README_RESOURCES",
+            "cc.TextAsset",
+            1
+        ],
+        "b3b374fb-018d-47a8-aecf-a4584c51d9f4": [
+            "prefab/Achievement",
+            "cc.Prefab",
+            1
+        ],
+        "66f611b4-a5ce-4652-af58-a18a73e34126": [
+            "prefab/StoryNodePrefab",
+            "cc.Prefab",
+            1
+        ],
+        "529d9762-5331-417e-8fb3-08ff7025e72c": [
+            "prefab/UnlockAchievementN",
+            "cc.Prefab",
+            1
+        ],
+        "5249f6e2-5920-4962-8232-6c23d10d87b2": [
+            "audio/bgm/school-bgm",
+            "cc.AudioClip",
+            1
+        ],
+        "db9f33cc-fb31-4fbf-bd52-a313c87c0b3a": [
+            "audio/sfx/favorability-change",
+            "cc.AudioClip",
+            1
+        ],
+        "8a71b864-e2ef-4562-9d13-d3bba2ccdbb4": [
+            "audio/sfx/ui-click",
+            "cc.AudioClip",
+            1
+        ],
+        "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19": [
+            "images/avatars/jingyi",
+            "cc.ImageAsset",
+            1
+        ],
+        "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19@6c48a": [
+            "images/avatars/jingyi/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19@f9941": [
+            "images/avatars/jingyi/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "089f26c1-1753-4e89-9547-6feb6f10c321": [
+            "images/avatars/xiaomeng",
+            "cc.ImageAsset",
+            1
+        ],
+        "089f26c1-1753-4e89-9547-6feb6f10c321@6c48a": [
+            "images/avatars/xiaomeng/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "089f26c1-1753-4e89-9547-6feb6f10c321@f9941": [
+            "images/avatars/xiaomeng/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "dc9d44a0-06d0-4969-a391-a236fe083e65": [
+            "images/avatars/yaxin",
+            "cc.ImageAsset",
+            1
+        ],
+        "dc9d44a0-06d0-4969-a391-a236fe083e65@6c48a": [
+            "images/avatars/yaxin/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "dc9d44a0-06d0-4969-a391-a236fe083e65@f9941": [
+            "images/avatars/yaxin/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "3b624de5-e6a3-4947-bece-b179c0a8e5e6": [
+            "images/backgrounds/UI_background",
+            "cc.ImageAsset",
+            1
+        ],
+        "3b624de5-e6a3-4947-bece-b179c0a8e5e6@6c48a": [
+            "images/backgrounds/UI_background/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3b624de5-e6a3-4947-bece-b179c0a8e5e6@f9941": [
+            "images/backgrounds/UI_background/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "27de1bf3-58e0-4834-8076-9ef059e36822": [
+            "images/backgrounds/picture",
+            "cc.ImageAsset",
+            1
+        ],
+        "27de1bf3-58e0-4834-8076-9ef059e36822@6c48a": [
+            "images/backgrounds/picture/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "27de1bf3-58e0-4834-8076-9ef059e36822@f9941": [
+            "images/backgrounds/picture/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "08522b09-15c6-4da5-8193-e2a6756cca72": [
+            "images/button/1",
+            "cc.ImageAsset",
+            1
+        ],
+        "08522b09-15c6-4da5-8193-e2a6756cca72@6c48a": [
+            "images/button/1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "08522b09-15c6-4da5-8193-e2a6756cca72@f9941": [
+            "images/button/1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "532bf655-e955-4ae1-87f2-81174e0da742": [
+            "images/button/2",
+            "cc.ImageAsset",
+            1
+        ],
+        "532bf655-e955-4ae1-87f2-81174e0da742@6c48a": [
+            "images/button/2/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "532bf655-e955-4ae1-87f2-81174e0da742@f9941": [
+            "images/button/2/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b5448aa6-098a-4255-b498-c992a0d70cc2": [
+            "images/button/3",
+            "cc.ImageAsset",
+            1
+        ],
+        "b5448aa6-098a-4255-b498-c992a0d70cc2@6c48a": [
+            "images/button/3/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b5448aa6-098a-4255-b498-c992a0d70cc2@f9941": [
+            "images/button/3/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "46b29858-f29d-436d-b476-99d12fba8f99": [
+            "images/button/4",
+            "cc.ImageAsset",
+            1
+        ],
+        "46b29858-f29d-436d-b476-99d12fba8f99@6c48a": [
+            "images/button/4/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "46b29858-f29d-436d-b476-99d12fba8f99@f9941": [
+            "images/button/4/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e00fe5e0-829d-4518-9d1f-cf96548e1816": [
+            "images/lock/lock",
+            "cc.ImageAsset",
+            1
+        ],
+        "e00fe5e0-829d-4518-9d1f-cf96548e1816@6c48a": [
+            "images/lock/lock/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e00fe5e0-829d-4518-9d1f-cf96548e1816@f9941": [
+            "images/lock/lock/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "fe86053f-731c-4540-9ced-13310902cf1f": [
+            "images/lock/unlock",
+            "cc.ImageAsset",
+            1
+        ],
+        "fe86053f-731c-4540-9ced-13310902cf1f@6c48a": [
+            "images/lock/unlock/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "fe86053f-731c-4540-9ced-13310902cf1f@f9941": [
+            "images/lock/unlock/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "37370a80-e86a-4a16-94dc-699b30d940be": [
+            "video/chapter1/01-transfer-student",
+            "cc.VideoClip",
+            1
+        ],
+        "eefa2d93-dbf3-46be-8f82-081ca3771963": [
+            "video/chapter1/02-enter-classroom",
+            "cc.VideoClip",
+            1
+        ],
+        "c04fa0bf-4476-4cdc-abe9-c143e4592992": [
+            "video/chapter1/03-self-introduction",
+            "cc.VideoClip",
+            1
+        ],
+        "eac94167-cde2-4228-a4c2-835654d4ff6d": [
+            "video/chapter1/04-sit-quietly",
+            "cc.VideoClip",
+            1
+        ],
+        "0ff06268-7873-4248-8131-2b0eff39e4a5": [
+            "video/chapter1/05-observe-students",
+            "cc.VideoClip",
+            1
+        ],
+        "7a0b25cd-26ca-4560-b121-8a7b8ee9bf3f": [
+            "video/chapter1/06-math-class",
+            "cc.VideoClip",
+            1
+        ],
+        "a4d3d3b3-d64d-4dee-a0dc-f0565d696ce1": [
+            "video/chapter1/07-help-yaxin",
+            "cc.VideoClip",
+            1
+        ],
+        "20078d11-903d-4aee-b945-cc0203f4116a": [
+            "video/chapter1/08-watch-yaxin",
+            "cc.VideoClip",
+            1
+        ],
+        "5eecff14-c680-4548-9cbc-225de5010c33": [
+            "video/chapter1/09-focus-study",
+            "cc.VideoClip",
+            1
+        ],
+        "2ee06745-9097-492c-aaa9-5431cde13029": [
+            "video/chapter1/10-lunch-time",
+            "cc.VideoClip",
+            1
+        ],
+        "38a05e57-8c8c-4639-8df8-06f7e8a2a4af": [
+            "video/chapter1/11-cafeteria",
+            "cc.VideoClip",
+            1
+        ],
+        "cd7bd3bd-6654-410a-9180-71bff2adb094": [
+            "video/chapter1/12-classroom-lunch",
+            "cc.VideoClip",
+            1
+        ],
+        "c8ab9d0e-de88-47f5-8c42-0b9d8367b01c": [
+            "video/chapter1/13-rooftop",
+            "cc.VideoClip",
+            1
+        ],
+        "4996cef0-6abd-4bfc-a523-4e40c4f32efd": [
+            "video/chapter2/01-club-recruitment",
+            "cc.VideoClip",
+            1
+        ],
+        "ee58c104-86cb-4f71-a447-fe038a67157e": [
+            "video/chapter2/02-meet-xiaomeng",
+            "cc.VideoClip",
+            1
+        ],
+        "674d776c-e893-46bf-9311-e780e2c433b4": [
+            "video/chapter2/03-meet-jingyi",
+            "cc.VideoClip",
+            1
+        ],
+        "cf984fb8-cfbc-427a-97b0-4526aebda6a1": [
+            "video/chapter2/04-join-art-club",
+            "cc.VideoClip",
+            1
+        ],
+        "e87072f7-8c17-4eea-b783-bf3c341c5333": [
+            "video/chapter2/05-praise-artwork",
+            "cc.VideoClip",
+            1
+        ],
+        "b73cdaef-f2ea-486d-baa1-acb4b2894323": [
+            "video/chapter2/06-sports-club",
+            "cc.VideoClip",
+            1
+        ],
+        "78b4b1d4-2a47-4291-ab3e-08f920a547f4": [
+            "video/chapter2/07-help-organize",
+            "cc.VideoClip",
+            1
+        ],
+        "7fff4a25-5026-415a-8f2e-18a046ccb53a": [
+            "video/chapter2/08-book-recommendation",
+            "cc.VideoClip",
+            1
+        ],
+        "4bf48e9c-0094-4ae2-9cbc-a1f98d733131": [
+            "video/chapter2/09-peaceful-reading",
+            "cc.VideoClip",
+            1
+        ],
+        "f0317a5c-b5dd-452a-b3f2-7882aa61298e": [
+            "video/chapter2/10-weekend-choice",
+            "cc.VideoClip",
+            1
+        ],
+        "63227c9a-42bb-4e1e-856d-74e6741af519": [
+            "video/chapter2/11-cafe-date-yaxin",
+            "cc.VideoClip",
+            1
+        ],
+        "bd4e164c-f3ce-47dd-b206-2f2a496a1f3f": [
+            "video/chapter2/12-art-date-xiaomeng",
+            "cc.VideoClip",
+            1
+        ],
+        "cfc05a01-1572-4b87-b6f8-91f3e8267043": [
+            "video/chapter2/13-bookstore-date-jingyi",
+            "cc.VideoClip",
+            1
+        ],
+        "16c286b0-077a-43b9-9b5b-54c6e785585a": [
+            "video/chapter3/01-school-festival",
+            "cc.VideoClip",
+            1
+        ],
+        "6cde6990-d244-4621-8caa-f3639ab2fa0f": [
+            "video/chapter3/02-fireworks-yaxin",
+            "cc.VideoClip",
+            1
+        ],
+        "bd449375-29d8-4886-8506-337012877e9f": [
+            "video/chapter3/03-exhibition-xiaomeng",
+            "cc.VideoClip",
+            1
+        ],
+        "d017c57e-8ffd-4fc3-9853-333a2678bec5": [
+            "video/chapter3/04-chat-jingyi",
+            "cc.VideoClip",
+            1
+        ],
+        "dba48c47-8e44-4ea4-a886-6e02515a4ade": [
+            "video/chapter3/05-confession-choice",
+            "cc.VideoClip",
+            1
+        ],
+        "0257bbbe-be36-465e-84c5-3608989c65ee": [
+            "video/chapter3/06-confess-yaxin",
+            "cc.VideoClip",
+            1
+        ],
+        "37ca80cb-a47a-4e0c-84be-5e7b2a06485b": [
+            "video/chapter3/07-confess-xiaomeng",
+            "cc.VideoClip",
+            1
+        ],
+        "3d6109b0-c743-40ab-95dc-54d54e818d93": [
+            "video/chapter3/08-confess-jingyi",
+            "cc.VideoClip",
+            1
+        ],
+        "97926019-7266-4f31-9d94-5f680195c772": [
+            "video/chapter3/09-wait-and-see",
+            "cc.VideoClip",
+            1
+        ],
+        "9be87971-1a0b-4dfe-afab-85a48acc023c": [
+            "video/chapter4/01-graduation",
+            "cc.VideoClip",
+            1
+        ],
+        "9ff77d66-341f-4f48-a245-8865d1949a26": [
+            "video/chapter4/02-ending-transition",
+            "cc.VideoClip",
+            1
+        ],
+        "88afd373-aabb-4359-878f-4ea2a919de36": [
+            "video/chapter4/03-ending-yaxin-good",
+            "cc.VideoClip",
+            1
+        ],
+        "62b900cd-fa45-424c-870c-ddb5e5412053": [
+            "video/chapter4/04-ending-xiaomeng-good",
+            "cc.VideoClip",
+            1
+        ],
+        "46ad855e-063f-4cf3-8bb4-ff8955a77bd1": [
+            "video/chapter4/05-ending-jingyi-good",
+            "cc.VideoClip",
+            1
+        ],
+        "bba2ec7b-6557-4858-b52f-420307d5c356": [
+            "video/chapter4/06-ending-alone",
+            "cc.VideoClip",
+            1
+        ],
+        "e3dfbb9c-4e77-4de8-b470-ada21efa38cb": [
+            "video/chapter4/07-ending-harem",
+            "cc.VideoClip",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0d2e3d563": [
+            "3b624de5-e6a3-4947-bece-b179c0a8e5e6@6c48a",
+            "27de1bf3-58e0-4834-8076-9ef059e36822@6c48a",
+            "46b29858-f29d-436d-b476-99d12fba8f99@6c48a",
+            "089f26c1-1753-4e89-9547-6feb6f10c321@6c48a",
+            "532bf655-e955-4ae1-87f2-81174e0da742@6c48a",
+            "08522b09-15c6-4da5-8193-e2a6756cca72@6c48a",
+            "b5448aa6-098a-4255-b498-c992a0d70cc2@6c48a",
+            "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19@6c48a",
+            "dc9d44a0-06d0-4969-a391-a236fe083e65@6c48a",
+            "e00fe5e0-829d-4518-9d1f-cf96548e1816@6c48a",
+            "fe86053f-731c-4540-9ced-13310902cf1f@6c48a"
+        ],
+        "03c037297": [
+            "66f611b4-a5ce-4652-af58-a18a73e34126",
+            "ce0377ca-fb4b-4ee2-a9be-a2d1aa902e19@f9941"
+        ],
+        "074ee7830": [
+            "b3b374fb-018d-47a8-aecf-a4584c51d9f4",
+            "e00fe5e0-829d-4518-9d1f-cf96548e1816@f9941",
+            "fe86053f-731c-4540-9ced-13310902cf1f@f9941"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
